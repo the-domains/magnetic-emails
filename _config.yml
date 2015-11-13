@@ -1,0 +1,23 @@
+name: Magnetic Emails
+favicon: null
+layout_spectrum: 0.29763949243351817
+typography_spectrum: 0.9204141115769744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6392809471581131
+  lightness: 0.2454972043633461
+  saturation: 0.2690596948377788
+  rhythmicContrast: 0.5526976203545928
+purpose: []
